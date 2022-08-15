@@ -7,3 +7,7 @@ The article is kindly provided from the corresponding author
 
 cited by https://pubmed.ncbi.nlm.nih.gov/35563475/
 The Impact of Cytokines on Neutrophils' Phagocytosis and NET Formation during Sepsis-A Review
+
+#################################################
+harvest time should be based on the expression of cxc ligands and receptor, namely cxcr2,
+so RNA-seq analysis from different timepoint should be included to get the pattern of expression.

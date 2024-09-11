@@ -1,8 +1,5 @@
-https://pubmed.ncbi.nlm.nih.gov/34893315/ 
-Reduction of NETosis by targeting CXCR1/2 reduces thrombosis, lung injury, 
-and mortality in experimental human and murine sepsis
-The article is kindly provided from the corresponding author
-
+1. Alsabani M, Abrams ST, Cheng Z, et al. **Reduction of NETosis by targeting CXCR1/2 reduces thrombosis, lung injury, and mortality in experimental human and murine sepsis**. Br J Anaesth. 2022;128(2):283-293. doi:10.1016/j.bja.2021.10.039IF: 9.1 Q1
+>- 
 ##############################################
 
 cited by https://pubmed.ncbi.nlm.nih.gov/35563475/

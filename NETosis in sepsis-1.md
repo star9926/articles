@@ -25,12 +25,25 @@
 7. Colón DF, Wanderley CW, Franchin M, et al. **Neutrophil extracellular traps (NETs) exacerbate severity of infant sepsis**. Crit Care. 2019;23(1):113. Published 2019 Apr doi:10.1186/s13054-019-2407-8IF: 8.8 Q1
 >- !!!
 
-8. Bertini R, Barcelos LS, Beccari AR, et al. **Receptor binding mode and pharmacological characterization of a potent and selective dual CXCR1/CXCR2 non-competitive allosteric inhibitor**. Br J Pharmacol. 2012;165(2):436-454. doi:10.1111/j.1476-5381.2011.01566.xIF: 6.8 Q1 
+8. !!!Bertini R, Barcelos LS, Beccari AR, et al. **Receptor binding mode and pharmacological characterization of a potent and selective dual CXCR1/CXCR2 non-competitive allosteric inhibitor**. Br J Pharmacol. 2012;165(2):436-454. doi:10.1111/j.1476-5381.2011.01566.xIF: 6.8 Q1 
+>- Reparixin (formerly known as repertaxin) was previously described as a non-competitive allosteric inhibitor of IL-8 receptors with a 400-fold higher efficacy in inhibiting CXCR1 activity than CXCR2 (Bertini et al., 2004). Reparixin efficiently inhibits the biological events triggered by IL-8 by binding to the transmembrane (TM) region of CXCR1 in an allosteric cavity within the helixes TM1, 2, 3, 6 and 7 (Bertini et al., 2004). The efficacy of reparixin in preventing PMN recruitment and associated tissue damage was shown in experimental models of I/R injury (Bertini et al., 2004; Souza et al., 2004; Garau et al., 2005) and organ transplantation (Cugini et al., 2005). The drug is currently under clinical development.
+>- Molecular modelling studies: All calculations were performed using an IBM e Server 326 Cluster, under the Red Hat Enterprise WS3 operating system. The sequence alignment of CXCR2 and CXCR1 was performed by using the MUSCLE software (Edgar, 2004). The conformational analysis of the ligands was performed with the Systematic torsional sampling method implemented in Macromodel 8.6 software (Schrodinger, LLC, Portland, OR). Atomic charges and potentials were fixed using the standard OPLS2001 force field, and the energy level was fixed at 50 kJ·mol−1. The minimum-energy conformer of each ligand was manually docked in the putative binding cavity of CXCR1 and CXCR2 homology models. With the aim of relaxing non-bonding interactions in the system, the complexes were energy-refined using Steepest Descent and Conjugate Gradient algorithms as implemented in DISCOVER package (Accelrys Corporate, San Diego, CA), using the CVFF force field. All the molecular dynamics simulations were validated using CHARMm force field as implemented in Accelrys Discovery Studio 2.5.
+>- Generation of L1.2 transfectants: Human chemokine receptors cDNA coding sequences were cloned in the pcDNA3.1 expression vector, sequence verified and used as templates to generate receptor mutants using the commercial Site-Directed Mutagenesis kit (Clontech, Saint-Germain-en-Laye, France), following manufacturer's instructions. Mutants were fully sequenced to confirm the nucleotide substitution introduced.
+>- G-protein activation assay: The IL-8/Eu-GTP binding assay was performed in a 96-well DELFIAR GTP binding kit; 5 µg of purified PMN plasma membranes for each sample in quadruplicates were treated for 10 min at 30°C with vehicle or DF 2156A (1 µM) and next incubated for 60 min at 30°C in 50 mM HEPES buffer, pH 7.4, containing 5 mM MgCl2, 3 µM GDP, 150 mM NaCl, 10 nM Eu-GTP, 100 nM IL-8. The plate was then washed three times on a vacuum manifold with 200 µL per well of washing buffer supplied by kit. The time-resolved fluorescence was then read using the Victor Plate Reader (Perkin Elmer, Fremont, NE).
+
+9. Lombardi M, Spartano L, Nicolo S, et al. **Modulation of MMP9 and CXCR2/CXCL1/IL-8 axis in human abdominal aortic aneurysm tissues by ladarixin**. Cardiovasc Res. Published online September 5, 2024. doi:10.1093/cvr/cvae179IF: 10.2 Q1
+>- The CXCR1/CXCR2 antagonism by non-competitive allosteric inhibitor ladarixin (Dompé Farmaceutici S.p.A., Milano, Italy) reduced MMP9 and leucocyte infiltration in a murine AAA model.4 
+>- RT-qPCR showed that both 10 μM and 50 μM ladarixin downregulated CXCL1 gene (Figure 1D). Conversely, ladarixin unaffected the expression of CXCL8 and CXCR2 genes and did not upregulate RIPK3, excluding the activation of necroptotic pathway.
+
+10. !!! Wieser V, Adolph TE, Enrich B, et al. **Reversal of murine alcoholic steatohepatitis by pepducin-based functional blockade of interleukin-8 receptors**. Gut. 2017;66(5):930-938. doi:10.1136/gutjnl-2015-310344IF: 23.0 Q1
+>- Blocking CXCR1/2 receptors increases survival in a murine model of alcoholic liver injury. CXCR1/2 pepducins revert steatosis and liver inflammation.
+Alcohol-induced liver injury is neutrophil mediated.
+>- ‘Pepducins’ are short peptides coupled to a lipid moiety that can be designed as agonists or antagonists with precise specificity in vitro and in vivo for a given GPCR.22–26 Pepducins integrate into the inner plasma membrane via a flip-flop mechanism and affect GPCR-dependent G-protein activation.27–29 We have reported pepducin ‘x1/2pal-i1’, specific for CXCR1 and CXCR2, which reverses established experimental systemic inflammatory response syndrome by inhibiting neutrophil activation.25 x1/2pal-i1 also abolishes tumour growth in a model of ovarian cancer30 and inhibits adenoma formation in Apcmin/+ mice.31
+
+11. !!! Jing W, Wang G, Cui Z, et al. **Tumor-neutrophil cross talk orchestrates the tumor microenvironment to determine the bladder cancer progression**. Proc Natl Acad Sci U S A. 2024;121(20):e2312855121. doi:10.1073/pnas.2312855121IF: 9.4 Q1
 
 
-
-
-
+    
 cited by https://pubmed.ncbi.nlm.nih.gov/35563475/
 The Impact of Cytokines on Neutrophils' Phagocytosis and NET Formation during Sepsis-A Review
 

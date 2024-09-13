@@ -34,9 +34,11 @@ Boribong BP, LaSalle TJ, Bartsch YC, et al. Neutrophil profiles of pediatric COV
 
 Hong Y, Chen L, Sun J, Xing L, Yang Y, Jin X, Cai H, Dong L, Zhou L, Zhang Z. Single-cell transcriptome profiling reveals heterogeneous neutrophils with prognostic values in sepsis. iScience. 2022 Oct 7;25(11):105301. doi: 10.1016/j.isci.2022.105301. PMID: 36304125; PMCID: PMC9593767.
 >- Single-cell RNA-seq data	https://ngdc.cncb.ac.cn	PRJCA006118
-Sepsis Bulk RNA-seq	https://www.ncbi.nlm.nih.gov/geo/	GSE134347 &	GSE131761& GSE74224
+>- Sepsis Bulk RNA-seq	https://www.ncbi.nlm.nih.gov/geo/	GSE134347 &	GSE131761& GSE74224
 
-
+Yarchoan M, Gane EJ, Marron TU, et al. Personalized neoantigen vaccine and pembrolizumab in advanced hepatocellular carcinoma: a phase 1/2 trial. Nat Med. 2024;30(4):1044-1053. doi:10.1038/s41591-024-02894-y
+>- All custom code used to generate the results in this study has been deposited in a GitHub repository at https://github.com/FertigLab/GeneosCollaboration.
+>- Single-cell RNA sequencing data are deposited in the Gene Expression Omnibus under accession number GSE255830. TCRβ sequencing data can be found in the open-access immuneACCESS database under Digital Object Identifier 10.21417/RP2024NM. The TCR constructs used to evaluate T cell vaccine specificity are deposited in GenBank under accession numbers PP316119 (patient 8_TCR1), PP316120 (patient 8_TCR2), PP316121 (patient 8_TCR3), PP316116 (patient 5_c3-1), PP316117 (patient 5_c3-2) and PP316118 (patient 5_c6).
 
 
 

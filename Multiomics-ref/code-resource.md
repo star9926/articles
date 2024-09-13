@@ -25,6 +25,9 @@ Gygi JP, Maguire C, Patel RK, et al. Integrated longitudinal multiomics study id
 Viode A, Smolen KK, van Zalm P, et al. Longitudinal plasma proteomic analysis of 1117 hospitalized patients with COVID-19 identifies features associated with severity and outcomes. Sci Adv. 2024;10(21):eadl5762. doi:10.1126/sciadv.adl5762
 >-Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Data files are available at ImmPort (immport.org) under accession number SDY1760. The code used for data analysis and visualization is available at Github page: https://github.com/SteenOmicsLab/COVID19 and deposited to Zenodo: https://zenodo.org/records/10913186.
 
+Yang Y, Dong L, Li Y, Huang Y, Zeng X. Summary data-based Mendelian randomization and single-cell RNA sequencing analyses identify immune associations with low-level LGALS9 in sepsis. J Cell Mol Med. 2024;28(14):e18559. doi:10.1111/jcmm.18559
+>- The analysis code to produce the major results presented in the paper can be accessed from https://github.com/yangyongsan‐bio/Sepsis‐SMR‐scRNA.
+
 
 
 

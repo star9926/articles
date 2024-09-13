@@ -28,6 +28,10 @@ Viode A, Smolen KK, van Zalm P, et al. Longitudinal plasma proteomic analysis of
 Yang Y, Dong L, Li Y, Huang Y, Zeng X. Summary data-based Mendelian randomization and single-cell RNA sequencing analyses identify immune associations with low-level LGALS9 in sepsis. J Cell Mol Med. 2024;28(14):e18559. doi:10.1111/jcmm.18559
 >- The analysis code to produce the major results presented in the paper can be accessed from https://github.com/yangyongsan‐bio/Sepsis‐SMR‐scRNA.
 
+Boribong BP, LaSalle TJ, Bartsch YC, et al. Neutrophil profiles of pediatric COVID-19 and multisystem inflammatory syndrome in children. Cell Rep Med. 2022;3(12):100848. doi:10.1016/j.xcrm.2022.100848
+>- All code required to run the analyses in this manuscript is deposited in Zenodo Data: https://doi.org/10.5281/zenodo.7277479 based on the associated Github repository (https://github.com/lasalletj/Pediatric_COVID_MISC_Neutrophils).
+>- Due to IRB consent limitations, raw sequencing data is not publicly available. However, the read count matrix and TPM matrix used in this study will be publicly available in GEO (Gene Expression Omnibus) under accession number GSE217370 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217370) and Table S5. Additional Supplemental Items are available from Zenodo Data: https://doi.org/10.5281/zenodo.7277479.
+
 
 
 

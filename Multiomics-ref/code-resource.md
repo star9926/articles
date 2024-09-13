@@ -32,8 +32,9 @@ Boribong BP, LaSalle TJ, Bartsch YC, et al. Neutrophil profiles of pediatric COV
 >- All code required to run the analyses in this manuscript is deposited in Zenodo Data: https://doi.org/10.5281/zenodo.7277479 based on the associated Github repository (https://github.com/lasalletj/Pediatric_COVID_MISC_Neutrophils).
 >- Due to IRB consent limitations, raw sequencing data is not publicly available. However, the read count matrix and TPM matrix used in this study will be publicly available in GEO (Gene Expression Omnibus) under accession number GSE217370 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217370) and Table S5. Additional Supplemental Items are available from Zenodo Data: https://doi.org/10.5281/zenodo.7277479.
 
-
-
+Hong Y, Chen L, Sun J, Xing L, Yang Y, Jin X, Cai H, Dong L, Zhou L, Zhang Z. Single-cell transcriptome profiling reveals heterogeneous neutrophils with prognostic values in sepsis. iScience. 2022 Oct 7;25(11):105301. doi: 10.1016/j.isci.2022.105301. PMID: 36304125; PMCID: PMC9593767.
+>- Single-cell RNA-seq data	https://ngdc.cncb.ac.cn	PRJCA006118
+Sepsis Bulk RNA-seq	https://www.ncbi.nlm.nih.gov/geo/	GSE134347 &	GSE131761& GSE74224
 
 
 
